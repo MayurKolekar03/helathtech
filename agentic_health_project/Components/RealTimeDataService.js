@@ -1,0 +1,1 @@
+export default function RealTimeDataService(){return <div>RealTimeDataService</div>}

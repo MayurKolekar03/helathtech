@@ -1,0 +1,1 @@
+export default function AlertPopup(){return <div>AlertPopup</div>}

@@ -1,0 +1,1 @@
+export default function AdvisoriesComponent(){return <div>Advisories Component</div>}
